@@ -1,6 +1,6 @@
 # GitHub Compare
 [![Build Status](https://travis-ci.org/mlucchini/githubcompare.svg?branch=master)](https://travis-ci.org/mlucchini/githubcompare)
-[![Coverage Status](https://coveralls.io/repos/mlucchini/githubcompare/badge.svg?branch=master&service=github)](https://coveralls.io/github/mlucchini/githubcompare?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/mlucchini/githubcompare/badge.svg?branch=master)](https://coveralls.io/github/mlucchini/githubcompare?branch=master)
 
 GitHub Compare lets you compare the popularity of multiple repositories.
 
